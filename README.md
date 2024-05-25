@@ -18,6 +18,18 @@
 
 [![jeus1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeus1998&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jeus1998/github-readme-stats)
 
+## 📞 Contact 📞
+
+👉 010-9289-5163
+
+👉 baejeu@naver.com
+
+## 🔨 I used 
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
+
+
 <!--
 **jeus1998/jeus1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
