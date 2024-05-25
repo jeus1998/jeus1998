@@ -14,6 +14,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeus20240228)](https://solved.ac/profile/zeus20240228)
 
+## GitHub stats
 
 [![jeus1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeus1998&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jeus1998/github-readme-stats)
 
