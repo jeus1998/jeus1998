@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&animaton=fadeIn&fontColor=d6ace6&text=Welcome%20to%20배제우%20GITHUB&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&animaton=fadeIn&fontColor=ff&text=Welcome%20to%20배제우%20GITHUB&fontSize=50)
+
 
 ## 깃허브 방문자 수
 
