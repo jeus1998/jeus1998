@@ -20,9 +20,9 @@
 
 ## 📞 Contact 📞
 
-👉 010-9289-5163
+👉 <b>phone: 010-9289-5163</b>
 
-👉 baejeu@naver.com
+👉 <b>email: baejeu@naver.com</b>
 
 ## 🔨 I used 
 
