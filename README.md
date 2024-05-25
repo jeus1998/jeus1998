@@ -1,4 +1,6 @@
-## 안녕하세요 백엔드 취준생 배제우 입니다 👋
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20jeus's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ## 깃허브 방문자 수
 
