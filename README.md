@@ -24,7 +24,7 @@
 
 👉 <b>email: baejeu@naver.com</b>
 
-## 🔨 I used 
+## 🔨 I used 🔨
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
