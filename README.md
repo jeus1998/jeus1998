@@ -4,9 +4,6 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jeus1998&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
-      </td>
-      <td>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zeus20240228" />
       </td>
     </tr>
